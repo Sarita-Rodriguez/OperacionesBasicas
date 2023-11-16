@@ -1,0 +1,7 @@
+ComprobacionNumerica$6
+ComprobacionNumerica$4
+ComprobacionNumerica$5
+ComprobacionNumerica$2
+ComprobacionNumerica$3
+ComprobacionNumerica$1
+ComprobacionNumerica
